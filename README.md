@@ -2,8 +2,10 @@
 
 #### Technical Skills: Domo, SQL, Power BI, Python, ETL, Microsoft Excel
 
-## Education		        		
-- B.E., Mechanical | Nagpur University (_May 2016_)
+## Education
+
+- Certification Program, Data Science | ExcelR Solutions Training Institute (_Apr 2021_)
+- B.E., Mechanical | Nagpur University (_July 2016_)
 
 
 ## Work Experience
