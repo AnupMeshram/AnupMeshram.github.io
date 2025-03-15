@@ -8,7 +8,7 @@
 
 ## Work Experience
 
-
+**Business Intelligence Platform Analyst @ Optiv Inc. (_Oct 2022 - Present_)**
 
 
 
