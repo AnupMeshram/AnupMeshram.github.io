@@ -1,6 +1,6 @@
 # Data Analyst | Business Intelligence Platform Analyst
 
-##### Technical Skills: 
+#### Technical Skills: 
 ##### Programming: Python, SQL, Excel VBA Macros, M language
 ##### Visualization: Domo, Power BI, Tableau, Looker Studio, Excel Charts, Jupyter Notebook
 ##### Database: MySQL, MS SQL Server, SSMS, PostgreSQL, Snowflake
