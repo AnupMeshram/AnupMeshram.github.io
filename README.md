@@ -26,6 +26,16 @@
   dashboard load times to enhance Domo cloud health and efficiency. The dashboard regularly use quarterly by the BI team to identifies 
   various objects for cleanup
 
+**Data Analyst @ Diacto Technologies Private Limited (_Aug 2021 - Oct 2022_)**
+- Led data migration from Power BI to Domo Cloud BI, enhancing analytics capabilities and reducing processing time by 30% through 
+  efficient data ingestion and   transformation using built-in tools such as Magic ETL, Dataset Views, and SQL.
+- Implemented personalized data permission policies (PDP) similar to RLS, developing finance and governance dashboards that improved Domo 
+  instance health metrics by   25% and addressed client business process issues effectively.
+- Streamlined operational business intelligence processes, reducing issue identification time by 45% and ensuring error-free 
+  instance/report running times.
+
+
+
 
 ## Projects
 
