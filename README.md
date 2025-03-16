@@ -28,15 +28,28 @@
 
 **Data Analyst @ Diacto Technologies Private Limited (_Aug 2021 - Oct 2022_)**
 - Led data migration from Power BI to Domo Cloud BI, enhancing analytics capabilities and reducing processing time by 30% through 
-  efficient data ingestion and   transformation using built-in tools such as Magic ETL, Dataset Views, and SQL.
+  efficient data ingestion and   transformation using built-in tools such as Magic ETL, Dataset Views, and SQL
 - Implemented personalized data permission policies (PDP) similar to RLS, developing finance and governance dashboards that improved Domo 
-  instance health metrics by   25% and addressed client business process issues effectively.
+  instance health metrics by   25% and addressed client business process issues effectively
 - Streamlined operational business intelligence processes, reducing issue identification time by 45% and ensuring error-free 
-  instance/report running times.
+  instance/report running times
 
+**Specialist, Operations @ Concentrix India Services Private Limited (_Jan 2020 - Oct 2020_)**
+- Spearheaded as Subject-Matter Expert (SME) to troubleshoot and resolve 150+ e-commerce product issues, ensuring seamless user 
+  experiences and reducing customer support tickets by 40%
+- Escalated complex issues, coordinating with teams to reduce resolution time by 30% and improve SLA compliance by 25%
+- Utilized Microsoft Excel to analyze customer data, deriving actionable insights that increased customer satisfaction by 20% and reduced 
+  response time by 15%
 
+**Quality Control Analyst @ Dhandhania Infotech Private Limited (_Apr 2017 - Nov 2018_)**
+- Analyzed bids and invoices across multiple projects, optimizing financial processes with a 15% error reduction. Regularly validated data 
+  to maintain 98% order processing accuracy and operational compliance
+- Prepared comprehensive Excel reports detailing orders and inspections across projects, improving decision-making by 20% and operational 
+  oversight efficiency
+- Analyzed diverse data formats (images, documents) to enhance financial reporting and analysis by 25%, optimizing bid and invoice 
+  evaluations
 
-
+  
 ## Projects
 
 
