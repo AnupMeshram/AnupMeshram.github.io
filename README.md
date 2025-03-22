@@ -1,13 +1,15 @@
 # Data Analyst | Business Intelligence Platform Analyst
 
-### Technical Skills:
-**Programming:** Python, SQL, Excel VBA Macros, M language  
-**Visualization:** Domo, Power BI, Tableau, Looker Studio, Excel Charts, Jupyter Notebook  
-**Database:** MySQL, MS SQL Server, SSMS, PostgreSQL, Snowflake  
-**Data Analysis Tools:** Microsoft Excel, Visual Studio, Power Query, Power Pivot, DAX, DAX Studio, Power BI Service, Pycharm (IDE)  
-**Data Management:** Data visualization, Data validation, Data modelling, Data transformation  
-**Version Control:** Git/GitHub, Git Bash  
-**Libraries and Tools:** Pandas, Numpy, OOPS, Chat GPT for Data Analytics, ETL (Extract, Transform, Load)  
+#### Technical Skills:
+<span style="font-size: 14px; font-weight: bold;">Programming:</span> Python, SQL, Excel VBA Macros, M language  
+<span style="font-size: 14px; font-weight: bold;">Visualization:</span> Domo, Power BI, Tableau, Looker Studio, Excel Charts, Jupyter Notebook  
+<span style="font-size: 14px; font-weight: bold;">Database:</span> MySQL, MS SQL Server, SSMS, PostgreSQL, Snowflake  
+<span style="font-size: 14px; font-weight: bold;">Data Analysis Tools:</span> Microsoft Excel, Visual Studio, Power Query, Power Pivot, DAX, DAX Studio, Power BI Service, Pycharm (IDE)  
+<span style="font-size: 14px; font-weight: bold;">Data Management:</span> Data visualization, Data validation, Data modelling, Data transformation  
+<span style="font-size: 14px; font-weight: bold;">Version Control:</span> Git/GitHub, Git Bash  
+<span style="font-size: 14px; font-weight: bold;">Libraries and Tools:</span> Pandas, Numpy, OOPS, Chat GPT for Data Analytics, ETL (Extract, Transform, Load)  
+
+
 
 
 ## Education
